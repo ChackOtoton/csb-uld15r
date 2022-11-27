@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "https://chackototon.github.io/csb-uld15r/static/css/main.fdc70568.chunk.css",
-    "main.js": "https://chackototon.github.io/csb-uld15r/static/js/main.ac13f6e2.chunk.js",
-    "main.js.map": "https://chackototon.github.io/csb-uld15r/static/js/main.ac13f6e2.chunk.js.map",
+    "main.js": "https://chackototon.github.io/csb-uld15r/static/js/main.e985329e.chunk.js",
+    "main.js.map": "https://chackototon.github.io/csb-uld15r/static/js/main.e985329e.chunk.js.map",
     "runtime-main.js": "https://chackototon.github.io/csb-uld15r/static/js/runtime-main.e4a8ecc8.js",
     "runtime-main.js.map": "https://chackototon.github.io/csb-uld15r/static/js/runtime-main.e4a8ecc8.js.map",
-    "static/js/2.21b539cf.chunk.js": "https://chackototon.github.io/csb-uld15r/static/js/2.21b539cf.chunk.js",
-    "static/js/2.21b539cf.chunk.js.map": "https://chackototon.github.io/csb-uld15r/static/js/2.21b539cf.chunk.js.map",
+    "static/js/2.9aeb4e68.chunk.js": "https://chackototon.github.io/csb-uld15r/static/js/2.9aeb4e68.chunk.js",
+    "static/js/2.9aeb4e68.chunk.js.map": "https://chackototon.github.io/csb-uld15r/static/js/2.9aeb4e68.chunk.js.map",
     "index.html": "https://chackototon.github.io/csb-uld15r/index.html",
     "static/css/main.fdc70568.chunk.css.map": "https://chackototon.github.io/csb-uld15r/static/css/main.fdc70568.chunk.css.map",
-    "static/js/2.21b539cf.chunk.js.LICENSE.txt": "https://chackototon.github.io/csb-uld15r/static/js/2.21b539cf.chunk.js.LICENSE.txt"
+    "static/js/2.9aeb4e68.chunk.js.LICENSE.txt": "https://chackototon.github.io/csb-uld15r/static/js/2.9aeb4e68.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e4a8ecc8.js",
-    "static/js/2.21b539cf.chunk.js",
+    "static/js/2.9aeb4e68.chunk.js",
     "static/css/main.fdc70568.chunk.css",
-    "static/js/main.ac13f6e2.chunk.js"
+    "static/js/main.e985329e.chunk.js"
   ]
 }
